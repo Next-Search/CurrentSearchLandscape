@@ -1,10 +1,10 @@
-# C. The Current Search Landscape
+# The Current Search Landscape
 
 ## Introduction
 
-Everyone knows Google is the big name in search, followed distantly by Bing. But what about the rest of the search landscape? Are there other competitors out there? If so, are they attempting anything similar to NeSE or do they have other innovative ways of improving search results that might eliminate the need for NeSE?
+Everyone knows Google is the big name in search, followed distantly by Bing. But what about the rest of the search landscape? Are there other competitors out there? If so, are they attempting anything similar to NextSearch or do they have other innovative ways of improving search results that might eliminate the need for NextSearch?
 
-This appendix attempts to address these questions and to provide a fairly thorough evaluation of the currently available search options. Feel free to skip on to the lists of search engines below but we also wanted to provide some information on our methodology for those who may be interested why certain sites do and don't appear on this list.
+This document attempts to address these questions and to provide a fairly thorough evaluation of the currently available search options. Feel free to skip on to the lists of search engines below but we also wanted to provide some information on our methodology for those who may be interested why certain sites do and don't appear on this list.
 
 We'd love to hear from you if we've missed any engines or if you have reasons why we've miscategorized an engine. You can reach us via [twitter @nextwebsearch](https://twitter.com/nextwebsearch) or via email at nextsearch@protonmail.com.
 
@@ -12,11 +12,11 @@ We'd love to hear from you if we've missed any engines or if you have reasons wh
 
 The search landscape is not unitary and straightforward. That is, one is often not comparing apples to apples when looking at different search engines. For example:
 
-* Some search engines have a tremendous user base and pose a signficant challenger to any new search entrant while other search engines are quite small and unknown.
+* Some search engines have a tremendous user base and pose a signficant challenge to any new search entrant while other search engines are quite small and unknown.
 * Some search engines handle what are considered to be the three core aspects of web search: \(1\) a crawler \(that finds and indexes sites\), \(2\) the index \(which contains indexed sites, assigned rankings, relationships, etc.\) and \(3\) the search interface \(the website through which a user makes a search query\).
 * Other search engines only implement some of the three outlined above. This usually occurs when a search engine provides a unique interface but behind the scenes is drawing on the index of another engine. [Mojeek's Search Engine Map](https://www.searchenginemap.com/) provides a helpful visualization of the various search engines and how they relate to one another.
 * Among these search engines pulling from other engines' indexes there are some that essentially provide the results almost exactly as provided to them and others who run their own algorithms on top of the base index to improve the results further.
-* Some search engines are "meta" - that is they query against multiple other search engines, sometimes combining the results to determine their own unique ranking.
+* Some search engines are "meta" - that is they query against multiple search engines, sometimes combining the results to determine their own unique ranking.
 * And technically, there are many search engines outside of web search - there are local site searches \(e.g., searching for articles on Wikipedia\), vertical search sites \(that cover a limited number of topics\), and so on.
 * Finally, there are search directories which may cover all topics but where the results are usually limited and often human curated.
 
@@ -27,23 +27,23 @@ To make our review of the landscape finite we will focus on two types of sites:
 
 This affects our survey in two significant ways:
 
-1. Sites which are somewhat popular AND don't offer unique functionality will not be represented in a meaningful way. This means, for example, that while we include DuckDuckGo in our contenders listings a number of other less popular privacy engines aren't addressed due to their functionality being available in DDG. Examples of sites that fell under this exclusion include Searchalot, Gibiru, DiscreteSearch, etc.
+1. Sites which are somewhat popular AND don't offer unique functionality will not be represented in a meaningful way. For example, while we include DuckDuckGo in our contender listings a number of other less popular privacy engines aren't addressed due to their functionality being available in DDG. Examples of sites that fell under this exclusion include Searchalot, Gibiru, DiscreteSearch, etc.
 2. Sites which are highly popular but are no longer considered serious search contenders. You can look at Appendix B to see a bit about the history of search engines and the various acquisitions that occurred. Oftentimes these acquisitions resulted in the acquired becoming a shell of its own self. 
 
 We've provided additional footnotes regarding why certain sites are/are not on the list below.
 
 ## The Winner
 
-* [Google](https://google.com) \(Alexa Rank: [\#1](https://www.alexa.com/topsites/countries/US), 12/2019\)
+* [Google](https://google.com) \(SimilarWeb Rank: [\#1](https://www.similarweb.com/website/google.com/#overview), 08/2022\)
 
 ## The Contenders
 
 | Search Engine | Alexa Rank | Verified |
 | :--- | :--- | :--- |
-| [Microsoft Bing](https://bing.com/) | [\#30](https://www.alexa.com/siteinfo/bing.com) | 12/2019 |
-| [DuckDuckGo](https://duckduckgo.com/) | [\#179](https://www.alexa.com/siteinfo/duckduckgo.com) | 12/2019 |
-| [Baidu](https://baidu.com/) \(China\) | [\#4](https://www.alexa.com/siteinfo/baidu.com) | 12/2019 |
-| [Yandex](https://yandex.com/) \(Russia\) | [\#50](https://www.alexa.com/siteinfo/yandex.ru) | 12/2019 |
+| [Microsoft Bing](https://bing.com/) | [\#30](https://www.similarweb.com/website/bing.com/#overview) | 08/2022 |
+| [DuckDuckGo](https://duckduckgo.com/) | [\#39](https://www.similarweb.com/website/duckduckgo.com/#overview) | 08/2022 |
+| [Baidu](https://baidu.com/) \(China\) | [\#6](https://www.similarweb.com/website/baidu.com/#overview) | 08/2022 |
+| [Yandex](https://yandex.com/) \(Russia\) | [\#147](https://www.similarweb.com/website/yandex.com/#overview) | 08/2022 |
 
 ## Second Tier Competitors
 
