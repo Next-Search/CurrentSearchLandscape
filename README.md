@@ -1,5 +1,7 @@
 # The Current Search Landscape
 
+DEPRECATED: Please visit [https://nextsearchengine.com/](https://nextsearchengine.com/) to access the latest edition of this document.
+
 ## Introduction
 
 Everyone knows Google is the big name in search, followed distantly by Bing. But what about the rest of the search landscape? Are there other competitors out there? If so, are they attempting anything similar to NextSearch or do they have other innovative ways of improving search results that might eliminate the need for NextSearch?
